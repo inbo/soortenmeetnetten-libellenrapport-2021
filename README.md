@@ -1,2 +1,5 @@
 # soortenmeetnetten-rapporten
-This repository contains reports with monitoring results from the Flemish species monitoring programme (soortenmeetnetten)
+This repository contains the report with the results from the Flemish dragonfly monitoring schemes.
+
+The report can be viewed using following link: 
+
